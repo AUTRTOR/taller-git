@@ -13,13 +13,13 @@ se añade otra mas
 
 #### Encabezaod 4
 
-**hola** 
+**Negro** 
 
-*hola*
+*curis*
 
-__HOLA__
+__negro__
 
-_cursiva_
+cursi
 
 # Instalacion para instalar el servidor apache
 
@@ -99,5 +99,32 @@ enlace [tetxp][web]
     - elemento 1.1.3
 - elemaneto 2
 
-<!- hola -->
+<!-- hola -->
 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |  
+| --- | --- | --- | 
+| Fila 1.1 | Fila 1.2 | Fila 1.3 |  
+| Fila 2.1 | Fila 2.2 | Fila 2.3 |  
+| Fila 3.1 | Fila 3.2 | Fila 3.3 |  
+
+
+| Columna 1 | Columna 2 | Columna 3 |
+| --- | --- | --- |
+| Fila 1, Celda 1 | Fila 1, Celda 2 | Fila 1, Celda 3 |
+| Fila 2, Celda 1 | Fila 2, Celda 2 | Fila 2, Celda 3 |
+
+
+| Izquierda | Centro | Derecha |
+| :--- | :---: | ---: |
+| Texto | Texto | 100 |
+
+
+Tenemos una frase  
+aqui hay otra
+
+vamos a citar
+> citado
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
